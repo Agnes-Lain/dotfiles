@@ -68,3 +68,4 @@ export LC_ALL=en_US.UTF-8
 # add the path of my project python packages
 export PYTHONPATH="/Users/zongyizhu/code/Agnes-Lain/data-challenges/04-Decision-Science:$PYTHONPATH"
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"

@@ -48,7 +48,7 @@
   mergeoptions = --no-edit
 [user]
 	email = agnes.lain@gmail.com
-	name = yizhu ZONG
+	name = Yizhu Zong
 [filter "lfs"]
 	required = true
 	clean = git-lfs clean -- %f
